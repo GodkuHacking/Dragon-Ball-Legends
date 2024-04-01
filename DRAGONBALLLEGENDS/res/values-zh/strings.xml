@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="TRADChannel_Adventure_title">冒險完成</string>
+    <string name="TRADChannel_DailyStamp_title">每日印章收集</string>
+    <string name="TRADChannel_Energy_title">能源回復完成</string>
+    <string name="TRADChannel_Event_title">活動通知</string>
+    <string name="TRADChannel_GvgBattle_title">公會戰鬥 戰鬥開始</string>
+    <string name="TRADChannel_GvgEntry_title">公會戰鬥 選擇參加時間</string>
+    <string name="TRADChannel_MissionPlan_title">任務方案</string>
+    <string name="TRADChannel_Other_title">其他</string>
+    <string name="TRADChannel_RoboReward_title">幫手機器人</string>
+    <string name="TRADChannel_TactEnergy_title">TP回復完成</string>
+    <string name="TRADChannel_TierChange_title">公開力量大會tier</string>
+    <string name="TRADChannel_Training_title">修練完成</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "787587454367",
+    "firebase_url": "https://scream-test-192508.firebaseio.com",
+    "project_id": "scream-test-192508",
+    "storage_bucket": "scream-test-192508.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787587454367:android:1405337ec992e5ae",
+        "android_client_info": {
+          "package_name": "com.Dimps.Scream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787587454367-4aja71to4scfhka1lg7r37bo2e40plau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Dimps.Scream",
+            "certificate_hash": "633f35eef90ec5bdc06e11c6a929f75bff8b544e"
+          }
+        },
+        {
+          "client_id": "787587454367-1fctga834gnkpjsgq5b4itrnbgunjdva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8_hP1KqOrBZidoQIhs6jSn0lJU8jkUD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787587454367-1fctga834gnkpjsgq5b4itrnbgunjdva.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "787587454367-5g8h04hta4u887nf74ki1jfr6ebn4312.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Dimps.Scream"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
