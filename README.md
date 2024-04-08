@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> 
+> to get the mod apk you must join the server and dm the bot !Apk
+
 <div align='center'>
 
 [![Redirect Image](https://media.discordapp.net/attachments/1220481805602394174/1223470603978281170/Untitled.jpg?ex=6619f8ca&is=660783ca&hm=0395fb8d6851cb7ec3f76094f392df641905e12acef93cd422149e9d0dd3dd7a&=&format=webp&width=1440&height=533)](https://discord.gg/zuX5ZbR3Qh)
@@ -44,3 +48,5 @@
 <div align='center'>
 <h1>Server</h1>
 <h3>https://discord.gg/Tce3u8WxWU</h3>
+
+</div>
