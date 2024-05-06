@@ -60,11 +60,10 @@
   
 # assets
 
-- [ ] element icons
-- [ ] rarity icons
-- [ ] character cutins
-- [ ] character icons
-- [ ] character full images
+- [x] element icons
+- [x] rarity icons
+- [x] character cutins
+- [x] character icons
 - [ ] equips
 - [ ] sactx
 - [ ] mesh (might never be finished but some will be there.)
